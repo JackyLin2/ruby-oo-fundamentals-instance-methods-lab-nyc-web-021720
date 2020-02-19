@@ -11,4 +11,4 @@ def sit
 end
  end 
  
- 
+ fido = dog.new 
